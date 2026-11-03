@@ -1,0 +1,21 @@
+{
+  "id": "/EduTrail-Duo/",
+  "name": "EduTrail Duo",
+  "short_name": "EduTrail",
+  "description": "Study in Korea, student life, learning and work tools.",
+  "lang": "bn",
+  "start_url": "/EduTrail-Duo/",
+  "scope": "/EduTrail-Duo/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f8fbfe",
+  "theme_color": "#1c477f",
+  "icons": [
+    {
+      "src": "/EduTrail-Duo/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
